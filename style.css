@@ -1,0 +1,18 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.banner {
+  background-image: url('banner.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #330000; /* bordô escuro */
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.banner h1, .banner p {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
